@@ -13,7 +13,7 @@ Welcome to the classic Snake game (inspired by Angela Yu's work), where nostalgi
 
 To dive into the game, follow these simple steps:
 
-1. Clone the repository: `git clone (https://github.com/vennala-sai/snake-game.git)`
+1. Clone the repository: `git clone https://github.com/vennala-sai/snake-game.git`
 2. Navigate to the game directory: `cd snake-game`
 3. Install dependencies: `Just need Python 3+`
 4. Run the game.
