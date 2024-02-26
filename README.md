@@ -1,6 +1,6 @@
 # Snake Game
 
-Welcome to our rendition of the classic Snake game, where nostalgia meets modern programming. This project aims to recreate the beloved game with a fresh twist, offering endless entertainment for players of all ages. Built with [Your Programming Language/Framework], this game not only serves as a fun pastime but also as an educational resource for those looking to dive into game development.
+Welcome to the classic Snake game (inspired by Angela Yu's work), where nostalgia meets modern programming. This project aims to recreate the beloved game with a fresh twist, offering endless entertainment for players of all ages. Built with Python, this game not only serves as a fun pastime but also as an educational resource for those looking to dive into game development.
 
 ## Features
 
